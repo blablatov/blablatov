@@ -10,15 +10,15 @@
   <img src="https://komarev.com/ghpvc/?username=blablatov&style=flat-square&color=blue" alt=""/>
 </div>
 
-### :computer: Обо мне (about Me) :
+### :point_right: Обо мне (about Me)
 Гофер, бэкэндер, Раша. I am a Golang Developer <img src="http://gitgif.website.yandexcloud.net/code-encoding.gif" width="30"> from RU.
 - :computer: Работаю инженером-разработчиком автоматических систем управления. I’m working as a Engineer developer on management automatic systems.
 - :magnet: Адепт мантры Go: "Не связывайтесь путем совместного использования памяти; совместно используйте память путем связи". 
 
-- :email: Способ связи. How to reach me: [![Linkedin Badge](https://img.shields.io/badge/send-gmail-blue?style=flat&logo=Linkedin&logoColor=white)](mailto:pchupail@gmail.com)
+- :email: Способ связи. How to reach me [![Linkedin Badge](https://img.shields.io/badge/send-gmail-blue?style=flat&logo=Linkedin&logoColor=white)](mailto:pchupail@gmail.com)
 ---
 
-### :hammer_and_wrench: Мой кругозор. Languages and Tools :
+### :hammer_and_wrench: Мой кругозор. Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -37,6 +37,6 @@
 
 ---
 
-### :printer: Stats :
+### :printer: Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blablatov&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
