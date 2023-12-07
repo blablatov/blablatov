@@ -10,9 +10,10 @@
   <img src="https://komarev.com/ghpvc/?username=blablatov&style=flat-square&color=blue" alt=""/>
 </div>
 
-### :man_technologist: Обо мне (about Me) :
+### :computer: Обо мне (about Me) :
 Гофер, бэкэндер, Раша. I am a Golang Developer <img src="http://gitgif.website.yandexcloud.net/code-encoding.gif" width="30"> from RU.
 - :computer: Работаю инженером-разработчиком автоматических систем управления. I’m working as a Engineer developer on management automatic systems.
+- :magnet: Адепт мантры Go: "Не связывайтесь путем совместного использования памяти; совместно используйте память путем связи". 
 
 - :email: Способ связи. How to reach me: [![Linkedin Badge](https://img.shields.io/badge/send-gmail-blue?style=flat&logo=Linkedin&logoColor=white)](mailto:pchupail@gmail.com)
 ---
