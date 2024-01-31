@@ -15,7 +15,7 @@
 - :computer: Работаю инженером-разработчиком автоматических систем управления. I’m working as a Engineer developer on management automatic systems.
 - :magnet: Адепт мантры Go: "Не связывайтесь путем совместного использования памяти; совместно используйте память путем связи". 
 
-- :email: Написать мне. How to reach me [![Linkedin Badge](https://img.shields.io/badge/send-gmail-blue?style=flat&logo=Linkedin&logoColor=white)](mailto:pchupail@gmail.com)
+- :email: Написать мне. Mail me [![Linkedin Badge](https://img.shields.io/badge/send-gmail-blue?style=flat&logo=Linkedin&logoColor=white)](mailto:pchupail@gmail.com)
 ---
 
 ### :hammer_and_wrench: Мой кругозор. Languages and Tools
