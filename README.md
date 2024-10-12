@@ -13,7 +13,7 @@
 ### :point_right: Обо мне (about Me)
 #### Гофер, бэкэндер, Раша. I am a Golang Developer <img src="http://gitgif.website.yandexcloud.net/code-encoding.gif" width="30"> from RU.
 - :computer: Работаю инженером-разработчиком автоматических систем управления. I’m working as a Engineer developer on management automatic systems.
-- :magnet: Адепт мантры Go: "Не связывайтесь путем совместного использования памяти; совместно используйте память путем связи". 
+- :magnet: Адепт мантры Go: "Не связываюсь путем совместного использования общей памяти; совместно использую общую память путем связи". 
 
 - :email: Написать мне. Mail me [![Linkedin Badge](https://img.shields.io/badge/send-gmail-blue?style=flat&logo=Linkedin&logoColor=white)](mailto:pchupail@gmail.com)
 ---
