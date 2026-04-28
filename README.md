@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="http://gitgif.website.yandexcloud.net/Go-go.gif" width="1000"/>
+  <img src="https://s3.138.124.35.115.nip.io/gogif/Go.gif" width="1000"/>
 </div>
 
 <div id="header" align="center">
