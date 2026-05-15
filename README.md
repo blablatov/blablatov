@@ -11,7 +11,7 @@
 </div>
 
 ### :point_right: Обо мне (about Me)
-#### Гофер, бэкэндер, Раша. I am a Golang Developer <img src="http://gitgif.website.yandexcloud.net/code-encoding.gif" width="30"> from RU.
+#### Гофер, бэкэндер, Раша. I am a Golang Developer from RU.
 - :computer: Работаю инженером-разработчиком автоматических систем управления. I’m working as a Engineer developer on management automatic systems.
 - :magnet: Адепт мантры Go: "Не связываюсь путем совместного использования общей памяти; совместно использую общую память путем связи". 
 
