@@ -1,25 +1,25 @@
 <div id="header" align="center">
-  <img src="https://s3.138.124.35.115.nip.io/gogif/Go.gif" width="1000"/>
+  <img src="https://nip.io" width="1000"/>
 </div>
 
 <div id="header" align="center">
-  <img src="http://s3.138.124.35.115.nip.io/gogif/matrix.gif" width="500"/>
+  <img src="http://nip.io" width="500"/>
 </div>
 
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=blablatov&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com" alt=""/>
 </div>
 
 ### :point_right: Обо мне (about Me)
-#### Гофер, бэкэндер, Раша. I am a Golang Developer from RU.
+#### Гофер, бэкэндер, Раша. I am a Golang Developer <img src="http://yandexcloud.net" width="30"> from RU.
 - :computer: Работаю инженером-разработчиком автоматических систем управления. I’m working as a Engineer developer on management automatic systems.
 - :magnet: Адепт мантры Go: "Не связываюсь путем совместного использования общей памяти; совместно использую общую память путем связи". 
 
-- :email: Написать мне. Mail me [![Linkedin Badge](https://img.shields.io/badge/send-gmail-blue?style=flat&logo=Linkedin&logoColor=white)](mailto:pchupail@gmail.com)
+- :email: Написать мне. Mail me [![Linkedin Badge](https://shields.io)](mailto:pchupail@gmail.com)
 
 ---
 
-### :gem: Featured Web3 Project: Autonomous TON DevTools AI Agent
+### :gem: Featured Web3 Project: Autonomous TON DevTools AI Agent (EN)
 I built a high-performance **Go-based AI Agent** that turns a Telegram chat into a secure remote sandbox for **TON smart contracts** (Tolk & FunC) [stem-calculative-problem-solving].
 
 - **On-the-Fly Compilation:** Drop a `.fc` / `.func` file to compile instantly via local **Acton CLI** with real-time error logging.
@@ -30,29 +30,39 @@ I built a high-performance **Go-based AI Agent** that turns a Telegram chat into
 
 ---
 
+### :gem: Проект: Автономный ИИ-агент для TON DevTools (RU)
+Разработал высокопроизводительного **ИИ-агента на Go**, который превращает чат в Telegram в изолированную удаленную песочницу для работы со **смарт-контрактами TON** (Tolk и FunC) [stem-calculative-problem-solving].
+
+- **Компиляция на лету:** Отправка файлов `.fc` / `.func` для мгновенной сборки через локальный **Acton CLI** с выводом интерактивного лога ошибок в реальном времени.
+- **Автоматическая миграция:** Потоковый конвейер трансляции устаревшего синтаксиса FunC в готовый к продакшену код **Tolk** в один клик.
+- **Оптимизация под высокие нагрузки:** Кастомный движок кэширования в RAM с автоматической очисткой сессий через 1 час для полного исключения утечек памяти.
+- **Сквозная аналитика:** Сбор телеметрии и логирование системных событий на базе высокопроизводительной архитектуры **ClickHouse**.
+- **Безопасность и стабильность:** Полностью автономная работа на независимом Linux VPS через systemd; решение обфусцировано и защищено от отладки.
+
+---
+
 ### :hammer_and_wrench: Мой кругозор. Languages and Tools
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/clickhouse/clickhouse-original.svg" title="ClickHouse" alt="ClickHouse" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/grpc/grpc-plain.svg" title="GRPC" alt="GRPC" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"  title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux"  alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
+  <img src="https://github.com" title="ClickHouse" alt="ClickHouse" width="40" height="40"/>&nbsp;
+  <img src="https://github.com" title="GRPC" alt="GRPC" width="40" height="40"/>&nbsp;
+  <img src="https://github.com" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
+  <img src="https://github.com" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com"  title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;
+  <img src="https://github.com" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com" title="Linux"  alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com" title="C" alt="C" width="40" height="40"/>&nbsp;  
 </div>
 
 ---
 
 ### :printer: Stats
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=blablatov&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- 
+[![Top Langs](https://vercel.app)](https://github.com)  
   
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://yoomoney.ru/fundraise/16GNDQR2DJ3.241114)
+[![](https://paypalobjects.com)](https://yoomoney.ru)
