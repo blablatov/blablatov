@@ -62,7 +62,8 @@ I built a high-performance **Go-based AI Agent** that turns a Telegram chat into
 
 ---
 
-### :printer: Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blablatov&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
+### :printer: Stats 
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=blablatov&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
   
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://yoomoney.ru/fundraise/16GNDQR2DJ3.241114)
