@@ -16,6 +16,18 @@
 - :magnet: Адепт мантры Go: "Не связываюсь путем совместного использования общей памяти; совместно использую общую память путем связи". 
 
 - :email: Написать мне. Mail me [![Linkedin Badge](https://img.shields.io/badge/send-gmail-blue?style=flat&logo=Linkedin&logoColor=white)](mailto:pchupail@gmail.com)
+
+---
+
+### :gem: Featured Web3 Project: Autonomous TON DevTools AI Agent
+I built a high-performance **Go-based AI Agent** that turns a Telegram chat into a secure remote sandbox for **TON smart contracts** (Tolk & FunC) [stem-calculative-problem-solving].
+
+- **On-the-Fly Compilation:** Drop a `.fc` / `.func` file to compile instantly via local **Acton CLI** with real-time error logging.
+- **Automated Migration:** One-click translation pipeline from legacy FunC syntax to production-ready **Tolk** code.
+- **High-Load Optimization:** Custom RAM caching engine with an automated 1-hour session cleanup to eliminate memory leaks.
+- **Enterprise Analytics:** Telemetry logging and system event tracking powered by a high-throughput **ClickHouse** architecture.
+- **Security:** Fully autonomous architecture deployed via systemd on an independent Linux VPS with anti-debugging protection.
+
 ---
 
 ### :hammer_and_wrench: Мой кругозор. Languages and Tools
